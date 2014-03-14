@@ -201,3 +201,4 @@ update方法整体来说结构如下：
 </pre>
 最后就是不断循环。
 
+点击查看演示[Demo](http://we4test.sinaapp.com/particle_Engine.html)
